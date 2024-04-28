@@ -20,3 +20,4 @@ In this work, we focus on the Airbnb listing prices inside of three major cities
 * `airbnb_attractions.csv`: Base pre-processed dataset
 * `airbnb_attractions2.csv`: Pre-processed dataset with additional features
 * `attractions-merged.csv`: Tourist attractions for Toronto, Sydney, and Barcelona
+* `shp_file`: .shp files for visualizing regions inside of cities 
